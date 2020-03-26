@@ -1,4 +1,4 @@
-package JOX;
+package GuiDialog;
 
 import javax.swing.JOptionPane;
 
