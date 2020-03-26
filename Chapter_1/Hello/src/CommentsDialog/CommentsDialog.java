@@ -1,7 +1,5 @@
 package CommentsDialog;
 
-import java.swing.Javax.JoptionPane;
-
 import javax.swing.JOptionPane;
 
 public class CommentsDialog {
@@ -9,5 +7,4 @@ public class CommentsDialog {
         JOptionPane.showMessageDialog(null,
                 "Program comments are nonexecuting statements you add to a file for documentation. ");
     }
-
 }
