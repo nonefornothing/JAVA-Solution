@@ -1,7 +1,7 @@
 package SongLyrics;
 
 public class SongLyrics {
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         System.out.println("Living easy, living free Season ticket on a one-way ride");
         System.out.println("Asking nothing, leave me be");
         System.out.println("Taking everything in my stride");
