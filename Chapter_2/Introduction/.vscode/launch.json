@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharDemo<Introduction>",
+            "request": "launch",
+            "mainClass": "app.CharDemo.CharDemo",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GetUserInfo<Introduction>",
+            "request": "launch",
+            "mainClass": "app.GetUserInfo.GetUserInfo",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GetUserInfo2<Introduction>",
+            "request": "launch",
+            "mainClass": "app.GetUserInfo2.GetUserInfo2",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GetUserInfo3<Introduction>",
+            "request": "launch",
+            "mainClass": "app.GetUserInfo3.GetUserInfo3",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntegerDemo<Introduction>",
+            "request": "launch",
+            "mainClass": "app.IntegerDemo.IntegerDemo",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntergerDemoInteractive<Introduction>",
+            "request": "launch",
+            "mainClass": "app.IntergerDemoInteractive.IntergerDemoInteractive",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumbersDialog<Introduction>",
+            "request": "launch",
+            "mainClass": "app.NumbersDialog.NumbersDialog",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumbersPrintln<Introduction>",
+            "request": "launch",
+            "mainClass": "app.NumbersPrintln.NumbersPrintln",
+            "projectName": "Introduction"
+        }
+    ]
+}
