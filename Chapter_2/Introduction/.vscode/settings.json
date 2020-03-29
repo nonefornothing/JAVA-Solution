@@ -1,0 +1,15 @@
+{
+    "workbench.view.alwaysShowHeaderActions": true,
+    "editor.accessibilityPageSize": 40,
+    "editor.minimap.side": "left"
+    // Main editor
+    "editor.fontSize": 18,
+    // Terminal panel
+    "terminal.integrated.fontSize": 14,
+    // Output panel
+    "[Log]": {
+        "editor.fontSize": 15
+    }
+    "window.zoomLevel": -1,
+    "files.autoSave": "afterDelay"
+}
