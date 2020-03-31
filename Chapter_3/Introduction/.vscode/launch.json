@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DemoGrossPay<Introduction>",
+            "request": "launch",
+            "mainClass": "app.Calculator.DemoGrossPay",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<Introduction>",
+            "request": "launch",
+            "mainClass": "app.CallMethodFromAnotherPackage.Test",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-First<Introduction>",
+            "request": "launch",
+            "mainClass": "app.First.First",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Second<Introduction>",
+            "request": "launch",
+            "mainClass": "app.First.Second",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ParadiseInfo<Introduction>",
+            "request": "launch",
+            "mainClass": "app.ParadiseDaySpa.ParadiseInfo",
+            "projectName": "Introduction"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestInfo<Introduction>",
+            "request": "launch",
+            "mainClass": "app.ParadiseDaySpa.TestInfo",
+            "projectName": "Introduction"
+        }
+    ]
+}
