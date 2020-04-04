@@ -2,8 +2,8 @@ package app.SpaService;
 
 import java.util.Scanner;
 
-public class CreateSpaServices {
-   public static void main(final String[] args) {
+public class tets {
+   public static void main(String[] args) {
       SpaService firstService = new SpaService();
       SpaService secondService = new SpaService();
       firstService = getData(firstService);
@@ -14,10 +14,10 @@ public class CreateSpaServices {
       System.out.println(secondService.getServiceDescription() + " $" + secondService.getPrice());
    }
 
-   public static SpaService getData(final SpaService s) {
+   public static SpaService getData(SpaService s) {
       String service;
       double price;
-      final Scanner keyboard = new Scanner(System.in);
+      Scanner keyboard = new Scanner(System.in);
       System.out.println("Enter service >> ");
       service = keyboard.nextLine();
       System.out.println("Enter price >> ");
@@ -28,5 +28,4 @@ public class CreateSpaServices {
       keyboard.close();
       return s;
    }
-
 }
